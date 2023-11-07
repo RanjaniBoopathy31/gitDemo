@@ -11,6 +11,9 @@ public class day3 {
 	public void executebeforesuit()
 	{
 		System.out.println("I will execute before suit test");
+		System.out.println("I will execute before suit test1");
+		System.out.println("I will execute before suit test2");
+
 
 	}
 

@@ -11,6 +11,9 @@ public class day1 {
 	public void beforeclassexec()
 	{
 		System.out.println("i will execute before class");
+		System.out.println("i will execute before class1");
+		System.out.println("i will execute before class2");
+
 
 	}
 @Test(groups= {"Smoke"})
